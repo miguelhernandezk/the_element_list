@@ -1,0 +1,14 @@
+.mainContainer{
+    margin: auto;
+    width: 90%;
+    -webkit-box-shadow: 10px 10px 21px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 21px -13px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 21px -13px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: white;
+}

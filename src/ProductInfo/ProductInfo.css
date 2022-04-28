@@ -1,0 +1,26 @@
+.infoContainer{
+    padding: 12px;
+    margin: 0 12px;
+    border-top: 1px solid;
+    border-color: #999898;
+}
+
+mainInfoContainer{
+    margin-bottom: 12px;;
+}
+
+.secondaryInfo{
+    margin-top: 8px;
+}
+
+.elementID{
+    color: #0091dc;
+}
+
+.elementPosition{
+    color: #999898;
+}
+
+.comments{
+    margin-top: 8px;
+}
